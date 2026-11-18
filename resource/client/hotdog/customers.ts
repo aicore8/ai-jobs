@@ -6,8 +6,8 @@ import {
   notify,
   player,
   Points,
-} from "@aifivem/lib/client";
-import { nearestOf, num } from "@aifivem/lib/shared";
+} from "@aicore8/lib/client";
+import { nearestOf, num } from "@aicore8/lib/shared";
 import { Locale } from "common";
 import { HOTDOG_EVENTS } from "common/hotdog";
 

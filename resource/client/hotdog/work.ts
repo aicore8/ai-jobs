@@ -6,7 +6,7 @@ import {
   notify,
   player,
   Points,
-} from "@aifivem/lib/client";
+} from "@aicore8/lib/client";
 import { Locale } from "common";
 import { HOTDOG_EVENTS, type HotdogView } from "common/hotdog";
 import { hotdog } from "../content";

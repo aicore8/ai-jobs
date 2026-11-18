@@ -2,8 +2,8 @@ import {
   entityFromNetId,
   onMembershipChange,
   onServerEvent,
-} from "@aifivem/lib/client";
-import { readId } from "@aifivem/lib/shared";
+} from "@aicore8/lib/client";
+import { readId } from "@aicore8/lib/shared";
 import { EVENTS, toShift } from "common/routes";
 import { work } from "./work";
 

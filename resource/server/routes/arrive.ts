@@ -5,9 +5,9 @@ import {
   notify,
   progressFor,
   resourceExport,
-} from "@aifivem/lib/server";
-import { distance, fail, randomInt } from "@aifivem/lib/shared";
-import type { ActionResult } from "@aifivem/shared";
+} from "@aicore8/lib/server";
+import { distance, fail, randomInt } from "@aicore8/lib/shared";
+import type { ActionResult } from "@aicore8/shared";
 import { Locale } from "common";
 import { EVENTS } from "common/routes";
 import {

@@ -1,4 +1,4 @@
-import { AdminWorld } from "@aifivem/lib/client";
+import { AdminWorld } from "@aicore8/lib/client";
 import { readHotdog } from "common/hotdog";
 
 /** ai-jobs' panel files on the client. */

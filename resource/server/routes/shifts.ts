@@ -3,14 +3,14 @@ import {
   entityCoords,
   PlayerMap,
   spawnVehicle,
-} from "@aifivem/lib/server";
+} from "@aicore8/lib/server";
 import {
   distance,
   fail,
   pickRandom,
   type Vec3,
-} from "@aifivem/lib/shared";
-import type { ActionResult } from "@aifivem/shared";
+} from "@aicore8/lib/shared";
+import type { ActionResult } from "@aicore8/shared";
 import { EVENTS, type Route, type Shift, type Stop } from "common/routes";
 import { stops } from "./stops";
 

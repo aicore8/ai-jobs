@@ -1,51 +1,51 @@
 # Changelog
 
-## [0.1.5](https://github.com/aifivem/ai-jobs/compare/v0.1.4...v0.1.5) (2026-11-02)
+## [0.1.5](https://github.com/aicore8/ai-jobs/compare/v0.1.4...v0.1.5) (2026-11-02)
 
 
 ### Documentation
 
-* install from the release zip ([210541f](https://github.com/aifivem/ai-jobs/commit/210541f4b10c49446af33ffffaa3430b59411e2d))
+* install from the release zip ([210541f](https://github.com/aicore8/ai-jobs/commit/210541f4b10c49446af33ffffaa3430b59411e2d))
 
 
 ### Miscellaneous Chores
 
-* build files are no longer in git, the release zip carries them ([2a24cbc](https://github.com/aifivem/ai-jobs/commit/2a24cbca97f55cefc4f070d9b84c723b611aec2e))
+* build files are no longer in git, the release zip carries them ([2a24cbc](https://github.com/aicore8/ai-jobs/commit/2a24cbca97f55cefc4f070d9b84c723b611aec2e))
 
-## [0.1.4](https://github.com/aifivem/ai-jobs/compare/v0.1.3...v0.1.4) (2026-11-02)
+## [0.1.4](https://github.com/aicore8/ai-jobs/compare/v0.1.3...v0.1.4) (2026-11-02)
 
 
 ### Code Refactoring
 
-* import the shared packages from [@aifivem](https://github.com/aifivem) ([cf6c379](https://github.com/aifivem/ai-jobs/commit/cf6c37905b41e5917abbd23f00fe6b361fac60d5))
+* import the shared packages from [@aicore8](https://github.com/aicore8) ([cf6c379](https://github.com/aicore8/ai-jobs/commit/cf6c37905b41e5917abbd23f00fe6b361fac60d5))
 
-## [0.1.3](https://github.com/aifivem/ai-jobs/compare/v0.1.2...v0.1.3) (2026-11-01)
+## [0.1.3](https://github.com/aicore8/ai-jobs/compare/v0.1.2...v0.1.3) (2026-11-01)
 
 
 ### Bug Fixes
 
-* **jobs:** register the hot dog sale callbacks the client calls ([9b15925](https://github.com/aifivem/ai-jobs/commit/9b15925d4629ab698fe0796b0a1d56aebf42d145))
+* **jobs:** register the hot dog sale callbacks the client calls ([9b15925](https://github.com/aicore8/ai-jobs/commit/9b15925d4629ab698fe0796b0a1d56aebf42d145))
 
 
 ### Code Refactoring
 
-* feature folders, side entries that only import, panel schema per tab ([a1d12a9](https://github.com/aifivem/ai-jobs/commit/a1d12a94348a64f67de1e0c59b5fe43561cf58f7))
+* feature folders, side entries that only import, panel schema per tab ([a1d12a9](https://github.com/aicore8/ai-jobs/commit/a1d12a94348a64f67de1e0c59b5fe43561cf58f7))
 
-## [0.1.2](https://github.com/aifivem/ai-jobs/compare/v0.1.1...v0.1.2) (2026-10-31)
-
-
-### Miscellaneous Chores
-
-* rebuild with the current lib ([2c1af39](https://github.com/aifivem/ai-jobs/commit/2c1af395c65e1a7d743bcab6aa927316c26ed088))
-
-## [0.1.1](https://github.com/aifivem/ai-jobs/compare/v0.1.0...v0.1.1) (2026-10-31)
+## [0.1.2](https://github.com/aicore8/ai-jobs/compare/v0.1.1...v0.1.2) (2026-10-31)
 
 
 ### Miscellaneous Chores
 
-* rebuild with the current lib ([2139307](https://github.com/aifivem/ai-jobs/commit/21393071cb494eb6a3b46021bbe27dc08a485f86))
-* rebuild with the current lib ([1d0d605](https://github.com/aifivem/ai-jobs/commit/1d0d6055a6da076440ef1c76195a1ff65eeec194))
-* rebuild with the current lib ([85c1a4d](https://github.com/aifivem/ai-jobs/commit/85c1a4d1ac7b8dd0d16d2b5282d89aae80a896ae))
-* rebuild with the current lib ([b8b8c20](https://github.com/aifivem/ai-jobs/commit/b8b8c20cbe29eaff25443fedd652021a21aafba3))
-* rebuild with the current lib ([5754e41](https://github.com/aifivem/ai-jobs/commit/5754e41cc7c4052e014d88c4d8cb33bc0957a213))
-* rebuild with the current lib ([c076d02](https://github.com/aifivem/ai-jobs/commit/c076d02273069628fbaaf78c6e1d53e2b210b28a))
+* rebuild with the current lib ([2c1af39](https://github.com/aicore8/ai-jobs/commit/2c1af395c65e1a7d743bcab6aa927316c26ed088))
+
+## [0.1.1](https://github.com/aicore8/ai-jobs/compare/v0.1.0...v0.1.1) (2026-10-31)
+
+
+### Miscellaneous Chores
+
+* rebuild with the current lib ([2139307](https://github.com/aicore8/ai-jobs/commit/21393071cb494eb6a3b46021bbe27dc08a485f86))
+* rebuild with the current lib ([1d0d605](https://github.com/aicore8/ai-jobs/commit/1d0d6055a6da076440ef1c76195a1ff65eeec194))
+* rebuild with the current lib ([85c1a4d](https://github.com/aicore8/ai-jobs/commit/85c1a4d1ac7b8dd0d16d2b5282d89aae80a896ae))
+* rebuild with the current lib ([b8b8c20](https://github.com/aicore8/ai-jobs/commit/b8b8c20cbe29eaff25443fedd652021a21aafba3))
+* rebuild with the current lib ([5754e41](https://github.com/aicore8/ai-jobs/commit/5754e41cc7c4052e014d88c4d8cb33bc0957a213))
+* rebuild with the current lib ([c076d02](https://github.com/aicore8/ai-jobs/commit/c076d02273069628fbaaf78c6e1d53e2b210b28a))

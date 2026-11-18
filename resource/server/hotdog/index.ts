@@ -10,14 +10,14 @@ import {
   online,
   onStop,
   resourceExport,
-} from "@aifivem/lib/server";
+} from "@aicore8/lib/server";
 import {
   distance,
   fail,
   randomInt,
   readFinite,
   rollChance,
-} from "@aifivem/lib/shared";
+} from "@aicore8/lib/shared";
 import { Locale } from "common";
 import { HOTDOG_EVENTS, type Quality } from "common/hotdog";
 import { hotdogSettings as settings, shifts } from "./shifts";

@@ -1,5 +1,5 @@
-import { AreaStream, coordsOf } from "@aifivem/lib/server";
-import { distance, type Vec3 } from "@aifivem/lib/shared";
+import { AreaStream, coordsOf } from "@aicore8/lib/server";
+import { distance, type Vec3 } from "@aicore8/lib/shared";
 import { HOTDOG_EVENTS, type StandView } from "common/hotdog";
 
 /** How often pushed stands follow their pusher on the server and followers' cells are read. */

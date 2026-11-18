@@ -3,8 +3,8 @@ import {
   isOnline,
   PlayerMap,
   resourceExport,
-} from "@aifivem/lib/server";
-import { int, record } from "@aifivem/lib/shared";
+} from "@aicore8/lib/server";
+import { int, record } from "@aicore8/lib/shared";
 import {
   HOTDOG_EVENTS,
   levelOf,

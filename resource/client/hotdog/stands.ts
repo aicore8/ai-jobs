@@ -1,4 +1,4 @@
-import { playerPed, requestModel } from "@aifivem/lib/client";
+import { playerPed, requestModel } from "@aicore8/lib/client";
 import type { StandView } from "common/hotdog";
 import { hotdog } from "../content";
 
